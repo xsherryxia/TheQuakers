@@ -12,4 +12,5 @@ Something about the ETAS model:
 --you may find this on <http://www.ism.ac.jp/~ogata/12ISM_NL_WEBver/earthquakeForecast_E.html>  
 --so that means, ETAS returns the MLE of the parameters of the model (mu, K, c, alpha, p); in addition to these, the R ETAS function also returns D, q, and gamma.  
 
-* There are also programs called ETAS, ETASIM(for simulation with data) and RETAS, etc, other than R. (see attachment in email)
+* There are also programs called ETAS, ETASIM(for simulation with data) and RETAS, etc, other than R.  
+-- <http://www.ism.ac.jp/editsec/csm/index/csm_033.pdf>  
