@@ -11,7 +11,7 @@ Iteration 1 Goals:
 - To create a presentation that explains the ETAS model (you can see the presentation here: https://docs.google.com/presentation/d/1yf3W22eAIX-bPgmVdqkRFfsfIgCHmbtXclF3-S92Us8/edit?usp=sharing)
 
 ==========
-SMART Goals:
+SMART Goals:  
 [S]pecific  
 1. We will create a Google Presentation with slides that explain the 4 parameters of the ETAS model as presented by Professor Stark.  
 [M]easurable  
