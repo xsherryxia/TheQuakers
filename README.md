@@ -1,10 +1,10 @@
 Group: The Quakers
 ==========  
 * Members:  
-Operational Lead: Carl Shan  <a href = "https://github.com/carlshan">carlshan</a>  
-He Ma <a href = "https://github.com/sunnymh">sunnymh</a>  
-Siyang Zeng (Sunny)  <a href = "https://github.com/SunnySunnia">SunnySunnia</a>  
-Alex Chao  <a href = "https://github.com/alexchao56">alexchao56</a>  
+Operational Lead: Carl Shan  <a href = "https://github.com/carlshan">carlshan</a> : <shan.carl@gmail.com>  
+He Ma <a href = "https://github.com/sunnymh">sunnymh</a> : <sunnymh2009@gmail.com>  
+Siyang Zeng (Sunny)  <a href = "https://github.com/SunnySunnia">SunnySunnia</a> : <ho20037900@gmail.com>  
+Alex Chao  <a href = "https://github.com/alexchao56">alexchao56</a> : <alexchao56@gmail.com>  
 
 ==========
 Iteration 1 Goals:
