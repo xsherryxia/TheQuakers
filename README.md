@@ -28,3 +28,6 @@ ROADBLOCKS
 1. The biggest and most obvious roadblock we've encountered is in the process of understanding the ETAS model itself, which is mathematically complex and sophisticated.   
 
 However, we're overcoming this roadblock through the utilization of Luen's dissertation, as well as various papers by Ogata et al. A list of resources we've used can be found in our repo: https://github.com/SunnySunnia/TheQuakers
+
+======  
+data: <https://github.com/stat157/analyzers/wiki/Data-from-Curators>  
