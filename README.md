@@ -31,3 +31,6 @@ However, we're overcoming this roadblock through the utilization of Luen's disse
 
 ======  
 data: <https://github.com/stat157/analyzers/wiki/Data-from-Curators>  
+data with NICE time format:  
+<https://www.dropbox.com/s/gttgdef4j0z02hd/CleanDataWithCorrectTime.csv>  
+
