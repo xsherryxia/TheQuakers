@@ -9,11 +9,11 @@ cols=c("pink","deeppink",'red',"deeppink4","blue")
 plot(mags,rep(0,length.out=length(mags)),pch=20,ylim=c(0,max(diff(times,lag=5))),xlim=c(0,8),ylab="Time",xlab="Magnitude")
 
 for (i in 1:length(mags)){
-  points(mags[i+1],times[i+1]-times[i],pch=20,col=alpha(cols[1],0.5))
-  points(mags[i+2],times[i+2]-times[i],pch=20,col=alpha(cols[2],0.5))
-  points(mags[i+3],times[i+3]-times[i],pch=20,col=alpha(cols[3],0.5))
-  points(mags[i+4],times[i+4]-times[i],pch=20,col=alpha(cols[4],0.5))
-  points(mags[i+5],times[i+5]-times[i],pch=20,col=alpha(cols[5],0.5))
+  points(mags[i],times[i+1]-times[i],pch=20,col=alpha(cols[1],0.5))
+  points(mags[i],times[i+2]-times[i],pch=20,col=alpha(cols[2],0.5))
+  points(mags[i],times[i+3]-times[i],pch=20,col=alpha(cols[3],0.5))
+  points(mags[i],times[i+4]-times[i],pch=20,col=alpha(cols[4],0.5))
+  points(mags[i],times[i+5]-times[i],pch=20,col=alpha(cols[5],0.5))
 }
 legend(7.6,max(diff(times,lag=5)),c("1st","2nd","3rd","4th","5th"),pch=20,col=cols)
 dev.off()
