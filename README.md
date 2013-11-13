@@ -12,18 +12,18 @@ Iteration 1 Goals:
 
 * SMART Goals:  
 [S]pecific  
-1. We will create a Google Presentation with slides that explain the 4 parameters of the ETAS model as presented by Professor Stark.  
+-- We will create a Google Presentation with slides that explain the 4 parameters of the ETAS model as presented by Professor Stark.  
 [M]easurable  
-1. The presentation will be 4-minutes long, comprising of about 8 slides.  
+-- The presentation will be 4-minutes long, comprising of about 8 slides.  
 [A]ttainable  
-1. You can view our presentation here:   https://docs.google.com/presentation/d/1yf3W22eAIX-bPgmVdqkRFfsfIgCHmbtXclF3-S92Us8/edit?usp=sharing  
+-- You can view our presentation here:   https://docs.google.com/presentation/d/1yf3W22eAIX-bPgmVdqkRFfsfIgCHmbtXclF3-S92Us8/edit?usp=sharing  
 [R]elevant  
-1. Understanding the ETAS model will help the class understand what the important inputs and parameters to earthquake modeling to consider.  
+-- Understanding the ETAS model will help the class understand what the important inputs and parameters to earthquake modeling to consider.  
 [T]ime-Bound  
-1. We will have the presentation completed by 11:59pm 11/4/2013  
+-- We will have the presentation completed by 11:59pm 11/4/2013  
 
 * ROADBLOCKS  
-1. The biggest and most obvious roadblock we've encountered is in the process of understanding the ETAS model itself, which is mathematically complex and sophisticated.   
+-- The biggest and most obvious roadblock we've encountered is in the process of understanding the ETAS model itself, which is mathematically complex and sophisticated.   
 
 However, we're overcoming this roadblock through the utilization of Luen's dissertation, as well as various papers by Ogata et al. A list of resources we've used can be found in our repo: https://github.com/SunnySunnia/TheQuakers
 
@@ -36,8 +36,8 @@ Iteration 2 Goals:
 Can find our slides here: <https://docs.google.com/presentation/d/1X4uL6_auhQZESuqVPTj9bZPF0vfhcdAE8MwNcEgtW9k/edit#slide=id.p>
 
 * ROADBLOCKS  
-1. Luen's code took us most of time while still have no clue about how he picked his parameters for his ETAS models and where is the parameter K in Ku^M embeded in his code. (We will ask Disi, who contacts with Luen, to address these questions to Luen)  
-2. Being notified by the curator that they have all the data sets and relevant codes ready for use, we failed to get any other data with nice time-format but the '250' because the curators did not upload the data set, that all the codes are based on, to the data-curator repo. (Later we talked to one of the curators and found out they 'hid' the data set to their wiki instead.)  
+-- Luen's code took us most of time while still have no clue about how he picked his parameters for his ETAS models and where is the parameter K in Ku^M embeded in his code. (We will ask Disi, who contacts with Luen, to address these questions to Luen)  
+-- Being notified by the curator that they have all the data sets and relevant codes ready for use, we failed to get any other data with nice time-format but the '250' because the curators did not upload the data set, that all the codes are based on, to the data-curator repo. (Later we talked to one of the curators and found out they 'hid' the data set to their wiki instead.)  
 
 ===========
 Iteration 2.5 Task:  (Nov 12th)  
