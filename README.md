@@ -10,8 +10,7 @@ Alex Chao  <a href = "https://github.com/alexchao56">alexchao56</a> : <alexchao5
 Iteration 1 Goals:
 - To create a presentation that explains the ETAS model (you can see the presentation here: https://docs.google.com/presentation/d/1yf3W22eAIX-bPgmVdqkRFfsfIgCHmbtXclF3-S92Us8/edit?usp=sharing)
 
-==========
-SMART Goals:  
+* SMART Goals:  
 [S]pecific  
 1. We will create a Google Presentation with slides that explain the 4 parameters of the ETAS model as presented by Professor Stark.  
 [M]easurable  
@@ -23,8 +22,7 @@ SMART Goals:
 [T]ime-Bound  
 1. We will have the presentation completed by 11:59pm 11/4/2013  
 
-==========  
-ROADBLOCKS  
+* ROADBLOCKS  
 1. The biggest and most obvious roadblock we've encountered is in the process of understanding the ETAS model itself, which is mathematically complex and sophisticated.   
 
 However, we're overcoming this roadblock through the utilization of Luen's dissertation, as well as various papers by Ogata et al. A list of resources we've used can be found in our repo: https://github.com/SunnySunnia/TheQuakers
@@ -37,8 +35,7 @@ Iteration 2 Goals:
 
 Can find our slides here: <https://docs.google.com/presentation/d/1X4uL6_auhQZESuqVPTj9bZPF0vfhcdAE8MwNcEgtW9k/edit#slide=id.p>
 
-=======  
-ROADBLOCKS  
+* ROADBLOCKS  
 1. Luen's code took us most of time while still have no clue about how he picked his parameters for his ETAS models and where is the parameter K in Ku^M embeded in his code. (We will ask Disi, who contacts with Luen, to address these questions to Luen)  
 2. Being notified by the curator that they have all the data sets and relevant codes ready for use, we failed to get any other data with nice time-format but the '250' because the curators did not upload the data set, that all the codes are based on, to the data-curator repo. (Later we talked to one of the curators and found out they 'hid' the data set to their wiki instead.)  
 
@@ -46,6 +43,7 @@ ROADBLOCKS
 Iteration 2.5 Task:  (Nov 12th)  
 -Plot the 'wait-times' of the successors of an earthquake so that the analyzers could observe and fit a window function from that.  
 
+Plots: <https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/SuccessorsTimePlot.md>  
 
 ===============
 data: <https://github.com/stat157/analyzers/wiki/Data-from-Curators>  
