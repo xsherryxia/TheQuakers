@@ -1,8 +1,8 @@
-
 ###############################################################################
 #test on MDA
 
 #import dataset '250' as 't250'
+#The dataset used here is from the 250.csv that the curator's made. 
 
 cleandata=t250
 
