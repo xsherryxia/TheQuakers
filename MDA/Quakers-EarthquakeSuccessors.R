@@ -1,6 +1,9 @@
 install.packages("scales")
 library(scales)
 
+
+#Download DataFrame from https://www.dropbox.com/s/tzx4qqxhh9u9iz2/DataFrame.csv
+#DataFrame = read.csv(file="DataFrame.csv", header =T)
 mags=DataFrame$magnitude
 times=DataFrame$time
 
