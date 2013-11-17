@@ -6,7 +6,7 @@ He Ma <a href = "https://github.com/sunnymh">sunnymh</a> : <sunnymh2009@gmail.co
 Siyang Zeng (Sunny)  <a href = "https://github.com/SunnySunnia">SunnySunnia</a> : <ho20037900@gmail.com>  
 Alex Chao  <a href = "https://github.com/alexchao56">alexchao56</a> : <alexchao56@gmail.com>  
 Theresa Andrasfay <a href ="https://github.com/tandrasfay">tandrasfay</a> 
-David Barrera <a href = "https://github.com/jest4pun">jest4pun</a>
+David Barrera <a href = "https://github.com/jest4pun">jest4pun</a> 
 
 ==========
 Iteration 1 Goals:
