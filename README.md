@@ -5,10 +5,53 @@ Operational Lead: Carl Shan  <a href = "https://github.com/carlshan">carlshan</a
 He Ma <a href = "https://github.com/sunnymh">sunnymh</a> : <sunnymh2009@gmail.com>  
 Siyang Zeng (Sunny)  <a href = "https://github.com/SunnySunnia">SunnySunnia</a> : <ho20037900@gmail.com>  
 Alex Chao  <a href = "https://github.com/alexchao56">alexchao56</a> : <alexchao56@gmail.com>  
-Theresa Andrasfay <a href ="https://github.com/tandrasfay">tandrasfay</a> 
+Theresa Andrasfay <a href ="https://github.com/tandrasfay">tandrasfay</a>   
 David Barrera <a href = "https://github.com/jest4pun">jest4pun</a> 
 
 ==========
+## End of Semester Timeline
+
+### Tuesday November 19
+Look at the upgraded version of the MDA window length function suggested by Prof. Stark and develop an algorithm for tuning parameters and producing error diagrams.    
+Assemble questions for Luen conference call. So far we are confused about his code to generate the error curve.
+
+### Thursday November 21
+Modify the algorithm and start trying with different parameters.
+Figure out a way to tune the parameter. (Since there are 2 free parameters, hold one fixed and test on the other one, or changing both of them in some ways.
+
+### Tuesday November 26
+Should have a set of 'best' parameters for our window function and present our results.
+If ours cannot beat any of the models, maybe try with the 'Optimization approach"
+
+### Thursday November 28
+Thanksgiving (Group members can continue to work on tasks)
+
+### Tuesday December 3
+Gather outputs from analyzers. Use these to make graphs for the final presentation. Compare different parameters found by different groups. Determine the best model to beat ETAS.
+
+### Thursday December 5
+Finalize graphs. Make information rich with final axis labels, titles, descriptions, links to data sources, etc.
+
+### Tuesday December 10
+Any last minute changes. Provide description of process to the presentors for Dec 12 Data Science Faire.
+
+### Thursday December 12
+Attend Data Science Faire 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Iteration 1 Goals:
 - To create a presentation that explains the ETAS model (you can see the presentation here: https://docs.google.com/presentation/d/1yf3W22eAIX-bPgmVdqkRFfsfIgCHmbtXclF3-S92Us8/edit?usp=sharing)
 
