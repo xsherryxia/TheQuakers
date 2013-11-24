@@ -1,0 +1,45 @@
+Group Meeting
+11/24/2013
+
+Goal: Have a model ready to present by Tuesday.
+
+Tasks:
+-Understand Luen’s error code/ write our own
+  -Code ECDF model (This is a challenge)
+  -figure out eg. swarms
+  -error on test set (Dataframe: data2)
+  -plots
+  -We don’t know how to generate error diagrams using this.
+
+MDA Model…(socal Data: data1)
+  -need to know Luen’s error diagram code….
+  -Haven’t tried this on a large data set….
+  -we know how to generate errors using his
+Presentation on above by Tuesday!!!
+Communicate with the other Analyzer group on what they are working on and see how we can sync up. (Theresa)
+
+What do we have?
+  -Code by luen
+  -ECDF code by us
+
+Data
+-Socal data as provided by professor Luen (“socal.txt”, 8,000) 
+-Dataframe as provided by the curators (dropbox, 600,000,000)
+-1938-2012 socal.
+
+Today:
+We chose to focus on ECDF Model:
+
+Look at more than first successors
+   - how many successors?
+   - We will look at first successors.
+   - is there a cutoff?
+   - do aftershocks happen after a certain number of days?
+window time?
+
+Figure out get around for swarm/other types of earthquakes
+Build code that generates error rates
+      -What is ECDF function outputs
+      -We don’t have a ECDF function. What type of function do we want. 
+
+
