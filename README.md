@@ -29,6 +29,8 @@ Thanksgiving (Group members can continue to work on tasks)
 ### Tuesday December 3
 Gather outputs from analyzers. Use these to make graphs for the final presentation. Compare different parameters found by different groups. Determine the best model to beat ETAS.
 
+Our Final Quake Presentation: <https://docs.google.com/a/berkeley.edu/presentation/d/18xqnLrV0QYs6DH1QRwFwGcOcU2ff9X6nhPDliJxy9gk/edit#slide=id.p>
+
 ### Thursday December 5
 Finalize graphs. Make information rich with final axis labels, titles, descriptions, links to data sources, etc.
 
