@@ -92,6 +92,14 @@ Iteration 2.5 Task:  (Nov 12th)
 
 Plots: <https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/SuccessorsTimePlot.md>  
 
+
+============
+Final Results: 
+-ECDF: <https://github.com/SunnySunnia/TheQuakers/tree/master/Quantile-Method>
+-Scaled MDA
+--Scaled by division: <http://github.com/SunnySunnia/TheQuakers/tree/master/skeleton/MDAScaledByDiv>
+--Scaled by subtraction: <https://github.com/SunnySunnia/TheQuakers/tree/master/skeleton/MDAScaledBySub>
+*(These are the main takeaways of our project)
 ===============
 data: <https://github.com/stat157/analyzers/wiki/Data-from-Curators>  
 data with NICE time format: (mag>=4,5)  
